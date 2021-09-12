@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "nombre": "Paseo1",
+    "lugarSalida": "Mi casa",
+    "lugarLlegada": "El eje cafetero",
+    "fecha": "22/09/2021"
+  },
+  {
+    "ID": 2,
+    "nombre": "Paseo2",
+    "lugarSalida": "Javeriana",
+    "lugarLlegada": "Cartagena",
+    "fecha": "06/10/2022"
+  },
+  {
+    "ID": 3,
+    "nombre": "Paseo3",
+    "lugarSalida": "Portal norte",
+    "lugarLlegada": "Monserrate",
+    "fecha": "10/09/2021"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "tipoOperacion": "Division",
+    "fecha": "2021-09-11T17:23:50.111170",
+    "user": "Usuario456"
+  },
+  {
+    "tipoOperacion": "Division",
+    "fecha": "2021-09-11T17:24:00.354192100",
+    "user": "Usuario666"
+  },
+  {
+    "tipoOperacion": "Division",
+    "fecha": "2021-09-11T17:24:01.646509100",
+    "user": "Usuario666"
+  },
+  {
+    "tipoOperacion": "Division",
+    "fecha": "2021-09-11T17:24:01.795541800",
+    "user": "Usuario666"
+  },
+  {
+    "tipoOperacion": "Division",
+    "fecha": "2021-09-11T17:24:01.960579700",
+    "user": "Usuario666"
+  },
+  {
+    "tipoOperacion": "Division",
+    "fecha": "2021-09-11T17:24:02.090608800",
+    "user": "Usuario666"
+  },
+  {
+    "tipoOperacion": "Division",
+    "fecha": "2021-09-11T17:24:04.940082500",
+    "user": "Usuario66777"
+  },
+  {
+    "tipoOperacion": "Division",
+    "fecha": "2021-09-11T17:29:32.553526900",
+    "user": "Usuario4"
+  }
+]

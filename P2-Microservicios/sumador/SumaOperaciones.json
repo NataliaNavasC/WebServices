@@ -1,0 +1,552 @@
+[
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-11T17:28:45.138768100",
+    "user": "Usuario1"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-11T17:28:59.807315900",
+    "user": "Usuario123"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-11T17:29:02.031391900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:39:09.979937900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:40:59.297665300",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:40:59.410658500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:40:59.706686900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:40:59.920676800",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:00.147999200",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:00.271665100",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:00.417559100",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:00.535579700",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:00.654598600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:01.004567600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:01.218660900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:01.419677900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:01.615601200",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:01.805498",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:02.011617700",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:02.193653400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:02.394659300",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:02.576469700",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:02.762679700",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:02.940667200",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:03.122695600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:03.300418200",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:03.473660600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:03.665413600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:03.838552600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:04.033674500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:04.234661600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:05.948299500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:06.116239800",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:06.307663",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:06.517268700",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:06.700268200",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:06.881656",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:07.083115400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:07.283250600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:07.470229",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:07.876328200",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:08.043413600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:08.204204400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:08.523188700",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:08.718772500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:08.832169800",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:09.070192600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:09.175208100",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:09.293227900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:09.543124100",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:09.766786400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:09.998166500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:10.213084700",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:10.426442500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:10.655389300",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:11.071894400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:12.177978500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:12.445258900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:12.727654800",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:12.973685600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:13.096947100",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:13.314699700",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:13.621211800",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:13.861687800",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:14.098900300",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:14.330658",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:14.686893500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:14.965015900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:15.183039900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:15.371408300",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:15.484427900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:15.689407400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:15.902940200",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:16.035655900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:16.267702600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:16.477728500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:16.690753400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:16.955813100",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:17.138842400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:17.333213400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:17.520738300",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:17.734722800",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:17.944669500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:18.836668900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:19.046659800",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:19.237645900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:19.465917500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:19.666653900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:19.857659900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:20.039658900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:20.230611900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:20.408649600",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:20.586665700",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:20.768696500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:20.959718500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:21.187734900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:25.024191400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:25.213831400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:25.419211500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:25.629655900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:25.898890500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:26.126322400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:26.372675800",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:26.601021400",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:26.837903900",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:27.052215200",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:27.293231700",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:57.912772800",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:58.176661500",
+    "user": "Usuario4333"
+  },
+  {
+    "tipoOperacion": "Suma",
+    "fecha": "2021-09-12T08:41:58.767678500",
+    "user": "Usuario4333"
+  }
+]
