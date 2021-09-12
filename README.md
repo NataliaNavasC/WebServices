@@ -81,8 +81,30 @@ Acto seguido ejecute:
 
 
 ## Probando la aplicación completa 
-Una vez estén corriendo todos los procesos requericos
+Una vez estén corriendo todos los procesos requeridos, utilice las siguientes URLS para consumir los servicios ofrecidos.
 
+============================ Operaciones ============================
+
+Estas URLs permiten consumir los microservicios de las operaciones de forma individual.
+
+| Operación | URL de ejemplo |
+|:---------|:-----------|
+| Suma | http://localhost:8888/calculadora/suma?a=5&b=3&user=Usuario1 |
+| Resta | http://localhost:8888/calculadora/resta?a=5&b=3&user=Usuario2 |
+| Multiplicación | http://localhost:8888/calculadora/multiplicacion?a=5&b=3&user=Usuario3 |
+| División | http://localhost:8888/calculadora/division?a=10&b=2&user=Usuario4 |
+
+
+
+====================== Registro de operaciones ====================== 
+
+Estas URLs permiten consultar el registro de opreaciones realizadas por cada tipo de operación de forma individual.
+| Operación | URL de ejemplo |
+|:---------|:-----------|
+| Suma | http://localhost:8888/calculadora/operaciones?operacion=sumador |
+| Resta | http://localhost:8888/calculadora/operaciones?operacion=restador |
+| Multiplicación | http://localhost:8888/calculadora/operaciones?operacion=multiplicador |
+| División | http://localhost:8888/calculadora/operaciones?operacion=divisor |
 
 
 
