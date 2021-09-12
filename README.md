@@ -61,6 +61,14 @@ Nota: el nombre del microservicio puede ser: sumador, restador, divisor o multip
 Acto seguido ejecute:
 > mvn clean install spring-boot:run
 
+Los microservicios individuales pueden ser probados con las siguientes URLs de ejemplo
+| Operación | URL de ejemplo |
+|:---------|:-----------|
+| Suma | http://localhost:9999/suma?a=5&b=8&user=Usuario1 |
+| Resta | http://localhost:4444/resta?a=45&b=38&user=Usuario2 |
+| Multiplicación | http://localhost:7777/multiplicacion?a=4&b=3&user=Ususario3 |
+| División | http://localhost:5555/division?a=10&b=5&user=Usuario4 |
+
 Cada una de las operaciones puede ser ejecutada múltiples veces en distintas instancias de un microservicio, para ello, debe cambiar el puerto en que se ejecutan por defecto.
 Para cambiar los puertos utilice los siguientes comandos:
 
@@ -71,6 +79,7 @@ Para cambiar los puertos utilice los siguientes comandos:
 > SET SERVER_PORT=####
 > 
 > mvn spring-boot:run
+
 
 ### Servicio calculadora:
 Para ejecutar la calculadora utilice una terminal y ubíquese en la siguiente ruta: 
