@@ -35,7 +35,7 @@ Utilice las siguientes opciones para consumir los servicios del servidor
 
 ## ¿Cómo ejecutar el punto 2?
 Este punto consta de 6 proyectos que pueden ser encontrados en la sub-carpeta P2-Microservicios.
-A continuación se presenta una tabla que resume el orden en que deben ser ejecutados los procesos y los puertos por defecto de cada uno de los procesos;
+A continuación se presenta una tabla que resume el orden en que deben ser ejecutados los procesos y los puertos por defecto de cada uno de ellos:
 | Orden | Proceso | Puerto por defecto |
 |:--------|:-----------|:-----------|
 | 1 | EurekaServer | 8761 |
@@ -55,14 +55,14 @@ Acto seguido ejecute:
 ### MicroServicios de las operaciones:
 Para ejecutar cualquier microservicio de las operaciones de la calculadora utilice una terminal y ubíquese en la siguiente ruta: 
 
-Nota: el nombre del micro servicio puede ser: sumador, restador, divisor o multiplicador.
-> WebServices\P2-Microservicios\<nombre del microservicio>
+Nota: el nombre del microservicio puede ser: sumador, restador, divisor o multiplicador.
+> WebServices\P2-Microservicios\\[nombre del microservicio]
 
 Acto seguido ejecute:
 > mvn clean install spring-boot:run
 
 Cada una de las operaciones puede ser ejecutada múltiples veces en distintas instancias de un microservicio, para ello, debe cambiar el puerto en que se ejecutan por defecto.
-Para cambiar los puertos por defecto utilice los siguientes comandos:
+Para cambiar los puertos utilice los siguientes comandos:
 
 * IOS: 
 > SERVER_PORT=#### mvn spring-boot:run
