@@ -1,7 +1,7 @@
-# Taller 2 - Servicios REST y Microservicios
+#Servicios REST y Microservicios
 A continuación se detalla la forma en que pueden ser ejecutadas la parte uno y dos del taller
 
-## ¿Cómo ejecutar el punto 1?
+## PARTE 1
 Este punto consta de 2 proyectos que pueden ser encontrados en la sub-carpeta P1-ClienteServidorRestMonolito. Este es el orden en que deben ser ejecutados: 
 1. Servidor
 2. Cliente
@@ -33,7 +33,7 @@ Utilice las siguientes opciones para consumir los servicios del servidor
 > 5. Salir
 > 
 
-## ¿Cómo ejecutar el punto 2?
+## PARTE 2
 Este punto consta de 6 proyectos que pueden ser encontrados en la sub-carpeta P2-Microservicios.
 A continuación se presenta una tabla que resume el orden en que deben ser ejecutados los procesos y los puertos por defecto de cada uno de ellos:
 | Orden | Proceso | Puerto por defecto |
